@@ -28,7 +28,7 @@ Play via terminal.
 
 ## Screenshots
 
-![Slot Machine Screenshot](/screenshots/demo.png)
+![Slot Machine Screenshot](/demo.jpg)
 
 ## Contributing
 
